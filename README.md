@@ -3,7 +3,7 @@
 
 This project implements a fake news detection model using a combination of LSTM for processing news titles and a Dense layer for incorporating source domain information. The model is trained on the FakeNewsNet dataset.
 
-[View Notebook on GitHub](https://github.com/sohyun902/Machine-Learning/blob/main/ML_project_Fake%20news%20detection.ipynb)
+[View Notebook](https://nbviewer.org/github/sohyun902/Machine-Learning/blob/main/ML_project_Fake%20news%20detection.ipynb)
 
 ## Table of Contents
 
